@@ -1,6 +1,6 @@
 [package]
 name = "pyo3-python-tracing-subscriber"
-version = "0.1.0"
+version = "$NEW_VERSION"
 edition = "2021"
 
 [dependencies]
