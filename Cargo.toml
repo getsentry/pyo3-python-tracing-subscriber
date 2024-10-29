@@ -2,6 +2,8 @@
 name = "pyo3-python-tracing-subscriber"
 version = "0.1.0"
 edition = "2021"
+description = "A `tracing_subscriber` layer that forwards data to a handler written in Python."
+license = "MIT"
 
 [dependencies]
 tracing-subscriber = "0.3.18"
