@@ -1,0 +1,4 @@
+./demo-rust-extension
+
+# This can point to sentry-sdk on PyPI when the new integration is released
+sentry-sdk @ git+https://github.com/getsentry/sentry-python@da0b086

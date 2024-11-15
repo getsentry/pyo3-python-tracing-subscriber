@@ -5,7 +5,7 @@
 
 A `tracing_subscriber` layer for native extensions that forwards `tracing` data to a Python handler.
 
-See the `demo` folder for a working example.
+See the `demo` folder for working examples.
 
 ### Usage
 Native extensions that use `tracing` can expose a function to Python to initialize `tracing`:
